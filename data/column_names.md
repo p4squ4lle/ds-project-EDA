@@ -21,7 +21,6 @@
 * **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
 * **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
 
-
 id 	Identification
 date 	Date sold
 price 	Sale price
@@ -43,3 +42,29 @@ lat 	Latitude
 long 	Longitude
 squft_liv15 	Average size of interior housing living space for the closest 15 houses, in square feet
 squft_lot15 	Average size of land lost for the closest 15 houses, in square feet
+
+
+
+|  id  | unique identified for a house |
+| :--: | :---------------------------: |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+|      |                               |
+
