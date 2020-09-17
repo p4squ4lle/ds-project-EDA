@@ -1,15 +1,9 @@
 # Data Science Livecycle
 
-[TOC]
 
 ## 1. Business Understanding
 
 **Ask relevant questions and define objectives for the problem that needs to be tackled.**
-
-- which is the area estimated to have the highest house prizes?
-- which are the key properties a house must have to yield a high selling prize?
-- 
-
 
 
 ## 2. Data Mining
